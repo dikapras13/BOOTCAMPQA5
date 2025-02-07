@@ -1,3 +1,0 @@
-bootcamp qa sesi 5 
-trail cherry-pick
-"ini file asli dari branch kita"
