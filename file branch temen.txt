@@ -1,0 +1,3 @@
+bootcamp QA sesi 5
+test cherry-pick
+ini file bari branch-temen
