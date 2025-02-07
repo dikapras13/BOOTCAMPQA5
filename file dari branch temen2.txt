@@ -1,0 +1,3 @@
+bootcamp QA sesi 5
+test rebase
+ini file bari branch-temen
